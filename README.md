@@ -212,7 +212,7 @@ browser, with no AI service and no API calls. You can read and edit it before it
 
 **What SQL can I use?** The engine is DuckDB, running inside your browser tab: `SELECT` with
 `WHERE`, inner and left `JOIN`, `GROUP BY`, `HAVING`, `ORDER BY` and `LIMIT`, aggregates such as
-`COUNT`, `SUM` and `AVG`, string functions such as `UPPER` and `TRIM`, and `CASE` and `COALESCE`.
+`COUNT`, `SUM` and `AVG`, string functions such as `UPPER` and `TRIM`, and `CASE` and `COALESCE` and more.
 
 **Does it work offline?** Yes, once the page has loaded: you can disconnect and keep adding files,
 running queries and exporting. Reloading the page needs the connection again.
