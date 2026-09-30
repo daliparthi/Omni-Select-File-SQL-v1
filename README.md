@@ -27,11 +27,11 @@ create and nothing to install. Free to use, no sign-up.
 ## Contents
 
 - [How it works](#how-it-works)
-- [Screenshots](#screenshots)
 - [Videos](#videos)
 - [Guides](#guides)
 - [Supported formats](#supported-formats)
 - [Check it yourself in 60 seconds](#check-it-yourself-in-60-seconds)
+- [Screenshots](#screenshots)
 - [Questions](#questions)
 - [Licensing and contact](#licensing-and-contact)
 
@@ -49,28 +49,6 @@ create and nothing to install. Free to use, no sign-up.
 There is no AI service and no API call behind the plain-English box: your question becomes SQL
 inside your browser. The SQL engine is DuckDB, running in the tab. The app keeps working offline
 once the page has loaded.
-
-## Screenshots
-
-**Home page.** The hero replays the video *Working With Client Data Under an NDA*: the network is
-switched off, a made-up client ledger is added, and spend by account is queried.
-
-![Home page: "Ask your data files in plain English. Nothing uploaded.", with the supported formats and a replay showing a query run with the network off](screenshots/home.png)
-
-**The app.** Two sample files loaded as tables `O` and `C`, a plain-English question, the SQL it
-became, and the results.
-
-![The app: File Select, the plain-English box and SQL editor side by side, and the query results](screenshots/app-plain-english-query.png)
-
-**Guides** and the **How To Use** reference.
-
-| Guides | How To Use |
-|---|---|
-| ![The guides index, starting with "Plain English to SQL, with no AI"](screenshots/guides.png) | ![The How To Use reference: overview and step 1, selecting files](screenshots/how-to-use.png) |
-
-**On a phone.**
-
-<img src="screenshots/home-mobile.png" width="320" alt="The home page on a phone-sized screen">
 
 ## Videos
 
@@ -197,6 +175,29 @@ Before you clear the list you will see the page loading its own files — the sc
 editor and the query engines — all from clientvirt.com and nothing from anywhere else. The
 [verification guide](https://www.clientvirt.com/guides/verify-nothing-is-uploaded) covers this and
 two further checks.
+
+## Screenshots
+
+**Home page.** The hero replays the video *Working With Client Data Under an NDA*: the network is
+switched off, a made-up client ledger is added, and spend by account is queried.
+
+![Home page: "Ask your data files in plain English. Nothing uploaded.", with the supported formats and a replay showing a query run with the network off](screenshots/home.png)
+
+**The app.** Two sample files loaded as tables `O` and `C`, a plain-English question, the SQL it
+became, and the results.
+
+![The app: File Select, the plain-English box and SQL editor side by side, and the query results](screenshots/app-plain-english-query.png)
+
+**Guides** and the **How To Use** reference.
+
+| Guides | How To Use |
+|---|---|
+| ![The guides index, starting with "Plain English to SQL, with no AI"](screenshots/guides.png) | ![The How To Use reference: overview and step 1, selecting files](screenshots/how-to-use.png) |
+
+**On a phone.**
+
+<img src="screenshots/home-mobile.png" width="320" alt="The home page on a phone-sized screen">
+
 
 ## Questions
 
