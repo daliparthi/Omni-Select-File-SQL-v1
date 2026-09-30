@@ -225,7 +225,8 @@ hosting. A build for this is available on request.
 
 - Web app: free at [www.clientvirt.com/app](https://www.clientvirt.com/app)
 - Internal deployments, written licences and security review packs: [clientvirt.com/contact](https://www.clientvirt.com/contact)
-- [Privacy Policy](https://www.clientvirt.com/privacy) · [Terms of Use](https://www.clientvirt.com/terms)
+- [Privacy Policy](https://www.clientvirt.com/privacy)
+- [Terms of Use](https://www.clientvirt.com/terms)
 
 This repository contains documentation, screenshots and links only — see [LICENSE](LICENSE).
 © 2026 ClientVirt. All rights reserved.
